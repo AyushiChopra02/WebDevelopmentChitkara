@@ -1,0 +1,10 @@
+img{
+    width: 30%;
+    margin: 1.66%;
+    /* border-radius: 50%; */
+    border: 10px dotted black;
+}
+#box1{
+    height: 30px;
+    width: 50px;
+}
